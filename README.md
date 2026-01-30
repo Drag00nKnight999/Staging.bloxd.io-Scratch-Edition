@@ -25,6 +25,7 @@ You can download the game from the **Releases** section:
   - Useful for inspection, modding, or re-hosting
 
  Go to the **Releases** tab to download the latest version.
+ link: <https://github.com/Drag00nKnight999/Staging.bloxd.io-Scratch-Edition/releases>
 
 ---
 
