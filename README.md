@@ -6,8 +6,8 @@ Because of file size limits, the project is distributed using **GitHub Releases*
 
 ---
 
-## Important Notice
-The game itself is **over 50MB**. If you believe your device cannot handle the game, do not download it or play it.
+> **Note**  
+> The game is over 50MB. If you think or you know your device cannot handle it, DO NOT PLAY THE GAME!
 
 ---
 
