@@ -52,7 +52,7 @@ You can download the game from the **Releases** section:
 ---
 
 ## Notes
-- **Do not monetize the game or have users pay money to download it** (Bloxd LTD may get angry)
+- **Do not monetize the game** (Bloxd LTD may get angry)
 - This project is **not affiliated with the official bloxd.io**
 - The developer **is not endorsed or supported by Bloxd.io**
 - The real Bloxd.io can be played here: <https://Bloxd.io>
@@ -85,3 +85,4 @@ You can download the game from the **Releases** section:
 - January 5th, 2026-Removed fps counter because it was causing computers to crash. (Mine included.)
 - January 30th, 2026-Moved the project to Github from Scratch.
 - January 30th, 2026-Added this ```README.MD``` file to the Github repository.
+- March 1st, 2026-Added mobile.
