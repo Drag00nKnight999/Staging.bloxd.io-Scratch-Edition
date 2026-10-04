@@ -1,3 +1,27 @@
+# Discontinuation Notice
+
+## staging.bloxd.io (Scratch Edition)
+
+Status: [![DISCONTINUED](https://img.shields.io/badge/PROJECT-DISCONTINUED-red?style=for-the-badge)](https://github.com/Drag00nKnight999/staging.bloxd.io)
+
+The **staging.bloxd.io (Scratch Edition)** project has been officially discontinued as of **June 11, 2026**.
+
+Development and maintenance of this project will no longer continue. The repository will remain available for archival and reference purposes, but no new features, updates, bug fixes, or active development should be expected.
+
+This project was created as a Scratch-based recreation/experimental version of **Bloxd.io**, and it served as a development and testing project during its active period.
+
+### What this means
+
+* Development has ended.
+* No further bug fixes or updates will be released.
+* The repository is now archived.
+* The existing source code may remain available for reference.
+* New feature requests and pull requests may not be accepted.
+
+Thank you to everyone who contributed to, tested, or supported the project during its development.
+
+---
+
 # Staging.bloxd.io (Scratch Edition)
 
 This repository contains a **Scratch game exported with TurboWarp**, made as a *staging / experimental edition of someone else's recreation of bloxd.io*.
